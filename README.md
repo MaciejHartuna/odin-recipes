@@ -1,4 +1,2 @@
-I've learned how to create files using git bash shell
--To create a file using git bash shell i can use the "touch" command (W/o git prefix)
-
-I've also learned how to update files using visual studio as well as how to stage and commit files to github
+First qualification project done for the Odin Project. The task was to create a simple index page with links leading to subpages showing the various recipes.
+The project serves as a way to show the understanding of basic HTML and usage of Git and Github, skills learned from previous classes. 
